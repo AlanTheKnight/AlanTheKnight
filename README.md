@@ -9,14 +9,27 @@ and become a fullstack developer.
 
 ![AlanTheKnight's github stats](https://github-readme-stats.vercel.app/api?username=alantheknight&show_icons=true&hide_title=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alantheknight&layout=compact&theme=tokyonight)
+
 ### :clipboard: My projects
 
-#### :blue_book: [School diary](https://github.com/alantheknight/school-diary)
+#### :blue_book: School diary
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=school-diary)](https://github.com/alantheknight/school-diary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=school-diary&theme=tokyonight)](https://github.com/alantheknight/school-diary)
 
 My main project I develop with [@pashs-ba](https://github.com/pashs-ba). It's a digital diary for my
 school (system for students to view their marks which are set by teachers & view homework) we decided
 to create when we were participating in ["School of IT-solutons"](https://itsolschool.ru/) which took
 place in St. Petersburg.
 
+#### :pencil: Sudoku
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=sudoku&theme=tokyonight)](https://github.com/alantheknight/sudoku)
+
+Terminal sudoku game which is made with C++ & ncurses library.
+
+#### :envelope: IdeaMail
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=ideamail&theme=tokyonight)](https://github.com/alantheknight/ideamail)
+
+Gmail client for Linux made with PyQt5.
