@@ -1,26 +1,37 @@
-## Hello everyone! :wave:
+## Hi everyone! :wave:
 
-My name is Maxim Gusev, I'm 15 and I want to become a programmer when I grow up.  
-I love coding on Python :snake:, Django and C++. Also I use Linux :penguin:.  
-I'm from :ru: but can speak :uk: with no problems.  
+I'm AlanTheKnight. I'm 16 and I want to become a programmer when I grow up.  
 
-I will keep learning. I'm going to get better at algorithms, learn JS and Vue framework
-and become a fullstack developer.
+### My skills
+
+Programming languages: Python, C++, JavaScript, TypeScript, Kotlin, Pascal  
+Frameworks: Django, React, React Native, Vue, PyQt5, Qt, Bootstrap  
+Languages: :ru:/:uk:
+Other skills: Linux, HTML+CSS  
+
+I still need to learn a lot of stuff. I will never ever stop learning.
+
+### 📊 Stats
 
 ![AlanTheKnight's github stats](https://github-readme-stats.vercel.app/api?username=alantheknight&show_icons=true&hide_title=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alantheknight&layout=compact&theme=tokyonight)
 
-### :clipboard: My projects
+### 📋 My projects
 
 #### :blue_book: School diary
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=school-diary&theme=tokyonight)](https://github.com/alantheknight/school-diary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=diary56&theme=tokyonight)](https://github.com/ideasoft-spb/school-diary)
 
 My main project I develop with [@pashs-ba](https://github.com/pashs-ba). It's a digital diary for my
 school (system for students to view their marks which are set by teachers & view homework) we decided
 to create when we were participating in ["School of IT-solutons"](https://itsolschool.ru/) which took
 place in St. Petersburg.
+
+#### 🎓 MathUp
+
+Yet private project made with React Native. It's a mobile Android/iOS app that helps students to
+learn maths. Mathematical Duolingo.
 
 #### :pencil: Sudoku
 
@@ -33,3 +44,7 @@ Terminal sudoku game which is made with C++ & ncurses library.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=ideamail&theme=tokyonight)](https://github.com/alantheknight/ideamail)
 
 Gmail client for Linux made with PyQt5.
+
+#### Discord "Mafia" board game bot
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=mafiabot&theme=tokyonight)](https://github.com/alantheknight/mafiabot)
