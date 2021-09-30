@@ -40,6 +40,7 @@ I'm Maxim Gusev aka *AlanTheKnight*
 <img alt="gimp" src="https://img.shields.io/badge/gimp-5C5543.svg?&style=for-the-badge&logo=gimp&logoColor=fff" />&nbsp;
 <img alt="pycharm" src="https://img.shields.io/badge/pycharm-000.svg?&style=for-the-badge&logo=pycharm&logoColor=fff" />&nbsp;
 <img alt="digitalocean" src="https://img.shields.io/badge/digital ocean-0080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=fff" />&nbsp;
+<img alt="android studio" src="https://img.shields.io/badge/android studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=fff" />&nbsp;
 
 ---
 
@@ -74,10 +75,10 @@ Terminal sudoku game which is made with C++ & ncurses library.
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=vue-dark" alt="AlanTheKnight's Github stats"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=vue-dark&hide_border=true" alt="AlanTheKnight's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=vue-dark&layout=compact" />
+      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=vue-dark&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
