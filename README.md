@@ -46,19 +46,29 @@ I'm Maxim Gusev aka *AlanTheKnight*
 
 ### 📋 My projects
 
-#### :blue_book: School diary
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ideasoft-spb/school-diary">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=diary56&theme=vue-dark" height="195px" alt="ReadMe Card"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ideasoft-spb/school-diary">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=mafiabot&theme=vue-dark" height="195px" alt="ReadMe Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=diary56&theme=tokyonight)](https://github.com/ideasoft-spb/school-diary)
+#### :blue_book: [School diary](https://github.com/ideasoft-spb/school-diary)
 
-My main project I develop with [@pashs-ba](https://github.com/pashs-ba). It's a digital diary for my
-school (system for students to view their marks which are set by teachers & view homework) we decided
-to create when we were participating in ["School of IT-solutons"](https://itsolschool.ru/) which took
-place in St. Petersburg.
+My main project I develop with [@pashs-ba](https://github.com/pashs-ba). It's a digital diary for
+schools (web-system for students to manage their grades and view homework).
 
 #### 🎓 MathUp
 
-Yet private project made with React Native. It's a mobile Android/iOS app that helps students to
-learn maths. Mathematical Duolingo.
+My first project made with React Native. 
 
 #### :pencil: Sudoku
 
@@ -68,7 +78,7 @@ Terminal sudoku game which is made with C++ & ncurses library.
 
 #### Discord "Mafia" board game bot
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=mafiabot&theme=tokyonight)](https://github.com/alantheknight/mafiabot)
+[![ReadMe Card]()](https://github.com/alantheknight/mafiabot)
 
 ### 📊 Stats
 
