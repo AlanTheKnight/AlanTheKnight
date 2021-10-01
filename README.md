@@ -48,12 +48,12 @@ I'm Maxim Gusev aka *AlanTheKnight*
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/ideasoft-spb/school-diary">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=diary56&theme=vue-dark" height="195px" alt="ReadMe Card"/>
       </a>
     </td>
-    <td width="50%">
+    <td>
       <a href="https://github.com/ideasoft-spb/school-diary">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=mafiabot&theme=vue-dark" height="195px" alt="ReadMe Card"/>
       </a>
