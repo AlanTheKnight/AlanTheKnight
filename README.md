@@ -54,7 +54,7 @@ I'm Maxim Gusev aka *AlanTheKnight*
       </a>
     </td>
     <td>
-      My main project I develop with <a href="https://github.com/pashs-ba">Pavel Bardin</a>.
+      The main project I develop with <a href="https://github.com/pashs-ba">Pavel Bardin</a>.
       It's open-source digital diary website for schools made with Django. We started working
       on it during <a href="https://www.itschoolspb.ru">School of IT-solutions</a> event.
     </td>
