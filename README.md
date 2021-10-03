@@ -44,26 +44,39 @@ I'm Maxim Gusev aka *AlanTheKnight*
 
 ---
 
-### 📋 My projects
+### 📋 My repositories
 
 <table>
   <tr>
-    <td>
+    <td width="50%" align="center">
       <a href="https://github.com/ideasoft-spb/school-diary">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ideasoft-spb&repo=diary56&theme=vue-dark" height="195px" alt="ReadMe Card"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atk-studio&repo=diary56&theme=radical" height="130px" alt="ReadMe Card"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/ideasoft-spb/school-diary">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=mafiabot&theme=vue-dark" height="195px" alt="ReadMe Card"/>
-      </a>
+      My main project I develop with <a href="https://github.com/pashs-ba">Pavel Bardin</a>.
+      It's open-source digital diary website for schools made with Django. We started working
+      on it during <a href="https://www.itschoolspb.ru">School of IT-solutions</a> event.
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%" align="center">
       <a href="https://github.com/alantheknight/sudokuy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=sudoku&theme=tokyonight" height="195px" alt="ReadMe Card"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=sudoku&theme=radical" height="130px" alt="ReadMe Card"/>
       </a>
+    </td>
+    <td>
+      Terminal sudoku game made with C++ & ncurses.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/ideasoft-spb/school-diary">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=mafiabot&theme=radical" height="130px" alt="ReadMe Card"/>
+      </a>
+    </td>
+    <td>
+      Discord bot for playing "Mafia" board game.
     </td>
   </tr>
 </table>
@@ -73,10 +86,10 @@ I'm Maxim Gusev aka *AlanTheKnight*
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=vue-dark&hide_border=true" alt="AlanTheKnight's Github stats"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=radical&hide_border=true" alt="AlanTheKnight's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=vue-dark&layout=compact&hide_border=true" />
+      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=radical&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
