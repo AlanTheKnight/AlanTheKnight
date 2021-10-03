@@ -59,26 +59,14 @@ I'm Maxim Gusev aka *AlanTheKnight*
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/alantheknight/sudokuy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=sudoku&theme=tokyonight" height="195px" alt="ReadMe Card"/>
+      </a>
+    </td>
+  </tr>
 </table>
-
-#### :blue_book: [School diary](https://github.com/ideasoft-spb/school-diary)
-
-My main project I develop with [@pashs-ba](https://github.com/pashs-ba). It's a digital diary for
-schools (web-system for students to manage their grades and view homework).
-
-#### 🎓 MathUp
-
-My first project made with React Native. 
-
-#### :pencil: Sudoku
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=sudoku&theme=tokyonight)](https://github.com/alantheknight/sudoku)
-
-Terminal sudoku game which is made with C++ & ncurses library.
-
-#### Discord "Mafia" board game bot
-
-[![ReadMe Card]()](https://github.com/alantheknight/mafiabot)
 
 ### 📊 Stats
 
