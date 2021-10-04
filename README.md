@@ -89,6 +89,16 @@ I'm Maxim Gusev aka *AlanTheKnight*
       Solutions for problems from IT lessons in my school.
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/alantheknight/competitive">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=competitive&theme=radical" height="130px" alt="ReadMe Card"/>
+      </a>
+    </td>
+    <td>
+      My solutions to competitive programming problems from CodeForces, CodeWars, Informatics, E-olymp, CSES and other problem sets.
+    </td>
+  </tr>
 </table>
 
 ### 📊 Stats
