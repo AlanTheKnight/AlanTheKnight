@@ -49,18 +49,6 @@ I'm Maxim Gusev aka *AlanTheKnight*
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/ideasoft-spb/school-diary">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atk-studio&repo=diary56&theme=radical" height="130px" alt="ReadMe Card"/>
-      </a>
-    </td>
-    <td>
-      The main project I develop with <a href="https://github.com/pashs-ba">Pavel Bardin</a>.
-      It's open-source digital diary website for schools made with Django. We started working
-      on it during <a href="https://www.itschoolspb.ru">School of IT-solutions</a> event.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <a href="https://github.com/alantheknight/sudoku">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alantheknight&repo=sudoku&theme=radical" height="130px" alt="ReadMe Card"/>
       </a>
