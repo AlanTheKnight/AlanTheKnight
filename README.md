@@ -29,19 +29,11 @@ I'm Maxim Gusev aka *AlanTheKnight*
   </tr>
   <tr>
     <td><a href="https://github.com/AlanTheKnight/diary56x"><img alt="Diary56x" src="diary56x-preview.png"/></a></td>
-    <td><a href="https://github.com/AlanTheKnight/ongaku-mv"><img alt="Ongaku MV" src="ongaku-mv-preview.png"/></a></td>
+    <td><a href="https://github.com/AlanTheKnight/mafia"><img alt="Mafia bot" src="mafia-bot-preview.png"/></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/AlanTheKnight/competitive"><img alt="Competitive" src="competitive-preview.png"/></a></td>
     <td><a href="https://github.com/AlanTheKnight/school-ict-lessons"><img alt="School ICT Lessons" src="school-ict-lessons-preview.png"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlanTheKnight/mafia"><img alt="Mafia bot" src="mafia-bot-preview.png"/></a></td>
-    <td><a href="https://github.com/AlanTheKnight/sudoku"><img alt="Sudoku" src="sudoku-preview.png"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlanTheKnight/atk-weather"><img alt="ATK Weather" src="atk-weather-preview.png"/></a></td>
-    <td><a href="https://github.com/AlanTheKnight/atk-chat"><img alt="ATK Chat" src="atk-chat-preview.png"/></a></td>
   </tr>
 </table>
 
