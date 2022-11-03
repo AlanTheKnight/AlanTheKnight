@@ -30,10 +30,6 @@
     <td><a href="https://github.com/AlanTheKnight/diary56x"><img alt="Diary56x" src="diary56x-preview.png"/></a></td>
     <td><a href="https://github.com/AlanTheKnight/mafia"><img alt="Mafia bot" src="mafia-bot-preview.png"/></a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/AlanTheKnight/competitive"><img alt="Competitive" src="competitive-preview.png"/></a></td>
-    <td><a href="https://github.com/AlanTheKnight/school-ict-lessons"><img alt="School ICT Lessons" src="school-ict-lessons-preview.png"/></a></td>
-  </tr>
 </table>
 
 ## 📊 Stats
