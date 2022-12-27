@@ -27,8 +27,8 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AlanTheKnight/diary56x"><img alt="Diary56x" src="diary56x-preview.png"/></a></td>
-    <td><a href="https://github.com/AlanTheKnight/mafia"><img alt="Mafia bot" src="mafia-bot-preview.png"/></a></td>
+    <td><a href="https://github.com/AlanTheKnight/diary56x"><img alt="Diary56x" src="diary56x.png"/></a></td>
+    <td><a href="https://github.com/AlanTheKnight/mafia"><img alt="Mafia bot" src="nto-ats-lb.png"/></a></td>
   </tr>
 </table>
 
