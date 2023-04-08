@@ -12,9 +12,10 @@
   </tr>
   <tr>
     <td><a href="https://github.com/AlanTheKnight/diary56x"><img alt="Diary56x" src="diary56x.png"/></a></td>
-    <td><a href="https://github.com/fm-projects/nto-ats-leaderboard"><img alt="NTO ATS Leaderboard" src="nto-ats-lb.png"/></a></td>
+    <td><a href="https://github.com/fm-projects/teeth-check"><img alt="Teeth.Check" src="teeth-check.png"/></a></td>
   </tr>
   <tr>
+  <td><a href="https://github.com/fm-projects/nto-ats-leaderboard"><img alt="NTO ATS Leaderboard" src="nto-ats-lb.png"/></a></td>
     <td><a href="https://github.com/fm-projects/afishka"><img alt="Afiska" src="afishka.png"/></a></td>
   </tr>
 </table>
