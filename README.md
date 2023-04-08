@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Maksim Gusev
 
-<a href="https://github.com/AlanTheKnight/alantheknight/raw/master/CV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>
+<a href="https://github.com/remgus/remgus/raw/master/CV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>
 
 ## 📋 My projects
 
@@ -11,12 +11,21 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AlanTheKnight/diary56x"><img alt="Diary56x" src="diary56x.png"/></a></td>
+    <td><a href="https://github.com/remgus/diary56x"><img alt="Diary56x" src="diary56x.png"/></a></td>
     <td><a href="https://github.com/fm-projects/teeth-check"><img alt="Teeth.Check" src="teeth-check.png"/></a></td>
   </tr>
   <tr>
-  <td><a href="https://github.com/fm-projects/nto-ats-leaderboard"><img alt="NTO ATS Leaderboard" src="nto-ats-lb.png"/></a></td>
-    <td><a href="https://github.com/fm-projects/afishka"><img alt="Afiska" src="afishka.png"/></a></td>
+    <td>
+      <a href="https://github.com/fm-projects/nto-ats-leaderboard"><img alt="NTO ATS Leaderboard" src="nto-ats-lb.png"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/fm-projects/afishka"><img alt="Afiska" src="afishka.png"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/remgus/olymp"><img alt="Olymp" src="olymp.png"/></a>
+    </td>
   </tr>
 </table>
 
@@ -25,10 +34,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=remgus&theme=radical&hide_border=true" alt="AlanTheKnight's Github stats"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=remgus&theme=radical&hide_border=true" alt="remgus's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remgus&theme=radical&layout=compact&hide_border=true" />
+      <img height="195px" align="right" alt="remgus's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remgus&theme=radical&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
