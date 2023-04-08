@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=radical&hide_border=true" alt="AlanTheKnight's Github stats"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=remgus&theme=radical&hide_border=true" alt="AlanTheKnight's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=radical&layout=compact&hide_border=true" />
+      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remgus&theme=radical&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
