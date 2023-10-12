@@ -34,10 +34,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=remgus&theme=radical&hide_border=true" alt="remgus's Github stats"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=radical&hide_border=true" alt="AlanTheKnight's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="remgus's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remgus&theme=radical&layout=compact&hide_border=true" />
+      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=radical&layout=compact&hide_border=true&exclude_repos=NTO,courses,hacks-ai-2023-spb&hide=jupyter%20notebook&langs_count=7&count_private=true" />
     </td>
   </tr>
 </table>
@@ -46,27 +46,32 @@
 
 <table>
   <tr>
-    <td rowspan="2">
-     <img width="100%" height="100%" src="certificates/certificate-digital-first.png" alt="Сертификат об участии в Альметьевском хакатоне">
+    <td width="33.3%">
+      <img width="100%" height="100%" src="certificates/certificate-digital-first.png" alt="Сертификат об участии в Альметьевском хакатоне"/>
     </td>
-    <td>
-     <img width="100%" height="100%" src="certificates/certificate-nto-finalist.png" alt="Сертификат об участии в Альметьевском хакатоне">
+    <td width="33.3%">
+      <img width="100%" height="100%" src="certificates/digital-breakthrough-2023.png" alt="Сертификат об участии в Альметьевском хакатоне"/>
     </td>
-    <td>
-     <img width="100%" height="100%" src="certificates/certificate-nti-talant.png" alt="Талант НТО">
-    </td>
-    <td>
-     <img width="100%" height="100%" src="certificates/certificate-nti-talant-ai.png" alt="Талант НТО">
+    <td width="33.3%">
+      <img width="100%" height="100%" src="certificates/cae.png" title="CAE" alt="CAE">
     </td>
   </tr>
   <tr>
-    <td>
-      <img width="100%" height="100%"  src="certificates/almethack.png" alt="Альметьевский хакатон">
+    <td width="33.3%">
+     <img width="100%" height="100%" src="certificates/certificate-nto-finalist.png" alt="Сертификат об участии в Альметьевском хакатоне"/>
     </td>
-    <td>
-     <img width="100%" height="100%" src="certificates/cae.png" title="CAE" alt="CAE">
+    <td width="33.3%">
+     <img width="100%" height="100%" src="certificates/certificate-nti-talant.png" alt="Талант НТО"/>
     </td>
-    <td>
+    <td width="33.3%">
+     <img width="100%" height="100%" src="certificates/certificate-nti-talant-ai.png" alt="Талант НТО"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%">
+      <img width="100%" height="100%"  src="certificates/almethack.png" alt="Альметьевский хакатон"/>
+    </td>
+    <td width="33.3%">
      <img width="100%" height="100%" src="certificates/school-it-solutions-1.jpg" title="Школа IT-решений" alt="Школа IT-решений">
     </td>
   </tr>
