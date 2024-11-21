@@ -1,7 +1,5 @@
 # Hi :wave:, I'm Maksim Gusev
 
-<a href="https://github.com/remgus/remgus/raw/master/CV.pdf"><img alt="Afiska" src="download-cv-btn.png" height="40"/></a>
-
 ## 📋 My projects
 
 <table>
