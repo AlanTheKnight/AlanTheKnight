@@ -34,9 +34,6 @@
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanTheKnight&theme=radical&hide_border=true" alt="AlanTheKnight's Github stats"/>
     </td>
-    <td>
-      <img height="195px" align="right" alt="AlanTheKnight's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanTheKnight&theme=radical&layout=compact&hide_border=true&exclude_repos=NTO,courses,hacks-ai-2023-spb&hide=jupyter%20notebook&langs_count=7&count_private=true" />
-    </td>
   </tr>
 </table>
 
@@ -66,9 +63,6 @@
     </td>
   </tr>
   <tr>
-    <td width="33.3%">
-      <img width="100%" height="100%"  src="certificates/almethack.png" alt="Альметьевский хакатон"/>
-    </td>
     <td width="33.3%">
      <img width="100%" height="100%" src="certificates/school-it-solutions-1.jpg" title="Школа IT-решений" alt="Школа IT-решений">
     </td>
